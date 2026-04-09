@@ -1,4 +1,4 @@
-# straitsofhormuz
+# straits of hormuz
 Project Title: Scam Shield
 
 Team Name: Straits Of Hormuz Team
