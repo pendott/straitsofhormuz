@@ -1,10 +1,16 @@
 # straitsofhormuz
 Project Title: Scam Shield
+
 Team Name: Straits Of Hormuz Team
+
 Team Members:
+
 Afendi — Backend / Frontend / AI / Research
+
 Adam — Backend / AI / Research
+
 Hafiz — Frontend / AI / Research
+
 
 Problem Statement
 What problem are we solving
